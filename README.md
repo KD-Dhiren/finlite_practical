@@ -1,4 +1,4 @@
-# login_demo_for_finlite
+# login_demo
 
 A new Flutter project.
 
